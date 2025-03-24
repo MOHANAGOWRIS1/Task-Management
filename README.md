@@ -1,4 +1,4 @@
-#Task Management Application#
+Task Management Application
 
 
 Overview
